@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://fb.com/deryngowskidamian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deryngowskidamian" height="30" width="40" /></a>
 <a href="https://discord.gg/AADaS85xbq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mefiboshet#4375" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mefiboshet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mefiboshet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
