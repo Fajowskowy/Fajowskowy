@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mefiboshet</h1>
+<h1 align="center">👋 Hi, I'm Fajowskowy</h1>
 <h3 align="center">Helpful and kind man :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajowskowy&label=Profile%20views&color=0e75b6&style=flat" alt="fajowskowy" /> </p>
